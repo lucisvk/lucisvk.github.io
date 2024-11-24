@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head> 
+    <title>Projects</title>
+</head>
+
+<body>
+    <h1>Projects</h1>
+    <p>Here are the projects I have worked on:</p>
+    <ul>
+        <a href="/projects/1">Project 1</a>
+        <a href="/projects/2">Project 2</a>
+        <a href="/projects/3">Project 3</a>
+    </ul>
+</html>
